@@ -17,7 +17,5 @@ namespace NG
             DB.Voto dbVoto = new DB.Voto();
             dbVoto.IncluirVoto(lVoto);
         }
-
-
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\g0\Documents\GitHub\movie-rating\DB\bin\Debug\DB.dll
+C:\Users\g0\Documents\GitHub\movie-rating\DB\bin\Debug\DB.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\DB\bin\Debug\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\DB\bin\Debug\Entidade.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\g0\Documents\GitHub\movie-rating\DB\obj\Debug\DB.dll
+C:\Users\g0\Documents\GitHub\movie-rating\DB\obj\Debug\DB.pdb

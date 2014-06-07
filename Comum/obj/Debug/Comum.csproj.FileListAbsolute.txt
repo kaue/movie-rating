@@ -1,0 +1,8 @@
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\obj\Debug\Comum.csprojResolveAssemblyReference.cache
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Comum.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Comum.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Newtonsoft.Json.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Entidade.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\obj\Debug\Comum.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\obj\Debug\Comum.pdb

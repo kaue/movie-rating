@@ -1,0 +1,4 @@
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.pdb
