@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace AngelHack___Movie_Rating
+namespace Web
 {
     public partial class Default : System.Web.UI.Page
     {
