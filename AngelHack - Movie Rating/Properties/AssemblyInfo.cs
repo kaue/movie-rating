@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AngelHack___Movie_Rating")]
+[assembly: AssemblyTitle("Movie.Web")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AngelHack___Movie_Rating")]
+[assembly: AssemblyProduct("Movie.Web")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b48e52ba-57ff-4424-a3f4-35b9ad70ab2b")]
+[assembly: Guid("743dd732-e094-4791-b361-8ec2b4c91e0d")]
 
 // Version information for an assembly consists of the following four values:
 //

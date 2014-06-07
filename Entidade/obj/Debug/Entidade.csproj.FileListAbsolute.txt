@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.pdb
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.pdb
+=======
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.pdb
+>>>>>>> 6e77bd5b3568535ccfdd4e974e511ee8640aad92

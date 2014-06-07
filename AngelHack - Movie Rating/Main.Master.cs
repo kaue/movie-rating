@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Web
+namespace Movie.Web
 {
     public partial class Main : System.Web.UI.MasterPage
     {

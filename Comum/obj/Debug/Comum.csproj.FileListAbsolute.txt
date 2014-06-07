@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Comum\obj\Debug\Comum.csprojResolveAssemblyReference.cache
+=======
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\obj\Debug\Comum.csprojResolveAssemblyReference.cache
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Comum.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Comum.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Newtonsoft.Json.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\bin\Debug\Entidade.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\obj\Debug\Comum.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Comum\obj\Debug\Comum.pdb
+>>>>>>> 6e77bd5b3568535ccfdd4e974e511ee8640aad92
