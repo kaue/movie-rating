@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{041E14AB-868A-43A9-B466-F7EE30909737}</ProjectGuid>
+    <ProjectGuid>{F39CBA87-7147-474E-AD3D-26BABB92617F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DB</RootNamespace>
@@ -40,14 +40,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Base.cs" />
+    <Compile Include="Voto.cs" />
     <Compile Include="Emocao.cs" />
     <Compile Include="Filme.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Voto.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Comum\Comum.csproj">
+      <Project>{1d4b1a7d-c736-4888-8634-80b51aa163c4}</Project>
+      <Name>Comum</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Entidade\Entidade.csproj">
-      <Project>{8d16bfce-f48c-42a9-a296-1e6516492893}</Project>
+      <Project>{8821c65a-7976-459a-ab0d-010c7c90c8b0}</Project>
       <Name>Entidade</Name>
     </ProjectReference>
   </ItemGroup>

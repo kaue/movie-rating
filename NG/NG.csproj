@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{47F8B0C3-14D6-4824-BB03-A15CA0C2CCCF}</ProjectGuid>
+    <ProjectGuid>{1A662F42-C6F0-4A85-947D-4CC3A35A6ADA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>NG</RootNamespace>
@@ -45,12 +45,16 @@
     <Compile Include="Voto.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Comum\Comum.csproj">
+      <Project>{1d4b1a7d-c736-4888-8634-80b51aa163c4}</Project>
+      <Name>Comum</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DB\DB.csproj">
-      <Project>{041e14ab-868a-43a9-b466-f7ee30909737}</Project>
+      <Project>{f39cba87-7147-474e-ad3d-26babb92617f}</Project>
       <Name>DB</Name>
     </ProjectReference>
     <ProjectReference Include="..\Entidade\Entidade.csproj">
-      <Project>{8d16bfce-f48c-42a9-a296-1e6516492893}</Project>
+      <Project>{8821c65a-7976-459a-ab0d-010c7c90c8b0}</Project>
       <Name>Entidade</Name>
     </ProjectReference>
   </ItemGroup>

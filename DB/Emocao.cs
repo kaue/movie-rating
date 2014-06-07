@@ -61,7 +61,7 @@ namespace DB
                 StringBuilder sqlQuery = new StringBuilder();
                 sqlQuery.Append("SELECT * FROM Emocao");
                 sqlQuery.Append(" WHERE Codigo = @Codigo");
-
+   
                 con.Open();
                 using (SqlCommand command = new SqlCommand(sqlQuery.ToString(), con))
                 {
@@ -72,7 +72,7 @@ namespace DB
                         {
                             Emocao = PreencheEntidadeEmocao(reader);
                         }
-
+                        
                     }
                 }
                 con.Close();
@@ -106,7 +106,7 @@ namespace DB
 
         public List<Entidade.Emocao> ListarEmocaoPorFilme(int lCodigoFilme)
         {
-
+            
             List<Entidade.Emocao> colecao = new List<Entidade.Emocao>();
             using (SqlConnection con = new SqlConnection(connectionString))
             {

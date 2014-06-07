@@ -61,7 +61,7 @@ namespace DB
                 sqlQuery.Append("SELECT sum(Valor) FROM Voto");
                 sqlQuery.Append(" WHERE CodigoFilme = @CodigoFilme");
                 sqlQuery.Append(" AND CodigoEmocao = @CodigoEmocao");
-
+   
                 con.Open();
                 using (SqlCommand command = new SqlCommand(sqlQuery.ToString(), con))
                 {
@@ -80,6 +80,6 @@ namespace DB
             return totalVotos;
         }
 
-
+   
     }
 }

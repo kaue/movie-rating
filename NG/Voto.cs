@@ -8,8 +8,7 @@ namespace NG
 {
     public class Voto
     {
-        public static void IncluirVoto(Entidade.Voto lVoto)
-        {
+        public static void IncluirVoto(Entidade.Voto lVoto){
             //Incluir filme caso nao exista no banco
             if (!NG.Filme.ExisteFilme(lVoto.Filme))
                 NG.Filme.IncluirFilme(lVoto.Filme);
@@ -17,5 +16,7 @@ namespace NG
             DB.Voto dbVoto = new DB.Voto();
             dbVoto.IncluirVoto(lVoto);
         }
+
+       
     }
 }

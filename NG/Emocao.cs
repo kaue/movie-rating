@@ -20,7 +20,11 @@ namespace NG
         {
             DB.Emocao dbEmocao = new DB.Emocao();
             List<Entidade.Emocao> listaEmocao = dbEmocao.ListarEmocaoPorFilme(lCodigoFilme);
-            return listaEmocao;
+            foreach(Entidade.Emocao emocao in listaEmocao){
+                emocao.TotalGeralPositivo = listaEmocao.Where(x=> x.Total > 0).Sum(x=> x.Total);
+                emocao.TotalGeralNegativo = listaEmocao.Where(x => x.Total < 0).Sum(x => x.Total);
+            }
+            return listaEmocao; 
         }
     }
 }

@@ -53,7 +53,7 @@ namespace DB
                 StringBuilder sqlQuery = new StringBuilder();
                 sqlQuery.Append("SELECT * FROM Filme");
                 sqlQuery.Append(" WHERE Codigo = @Codigo");
-
+   
                 con.Open();
                 using (SqlCommand command = new SqlCommand(sqlQuery.ToString(), con))
                 {
