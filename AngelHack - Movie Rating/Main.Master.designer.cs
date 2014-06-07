@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AngelHack___Movie_Rating {
+namespace Movie.Web {
     
     
     public partial class Main {
