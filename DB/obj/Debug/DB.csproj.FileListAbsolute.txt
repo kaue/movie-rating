@@ -1,0 +1,7 @@
+C:\Users\andre.sena\Documents\GitHub\movie-rating\DB\bin\Debug\DB.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\DB\bin\Debug\DB.pdb
+C:\Users\andre.sena\Documents\GitHub\movie-rating\DB\bin\Debug\Entidade.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\DB\bin\Debug\Entidade.pdb
+C:\Users\andre.sena\Documents\GitHub\movie-rating\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\andre.sena\Documents\GitHub\movie-rating\DB\obj\Debug\DB.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\DB\obj\Debug\DB.pdb

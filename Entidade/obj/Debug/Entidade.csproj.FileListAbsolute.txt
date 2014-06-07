@@ -1,0 +1,5 @@
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\bin\Debug\Entidade.pdb
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\Entidade\obj\Debug\Entidade.pdb

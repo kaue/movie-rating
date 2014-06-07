@@ -1,0 +1,9 @@
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\bin\Debug\NG.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\bin\Debug\NG.pdb
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\bin\Debug\DB.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\bin\Debug\Entidade.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\bin\Debug\DB.pdb
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\bin\Debug\Entidade.pdb
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\obj\Debug\NG.csprojResolveAssemblyReference.cache
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\obj\Debug\NG.dll
+C:\Users\andre.sena\Documents\GitHub\movie-rating\NG\obj\Debug\NG.pdb
