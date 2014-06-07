@@ -1,0 +1,10 @@
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll.config
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\bin\Movie.Web.pdb
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\bin\Entidade.dll
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.dll
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\bin\Entidade.pdb
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.xml
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\obj\Release\Movie.Web.csprojResolveAssemblyReference.cache
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\obj\Release\Movie.Web.dll
+d:\libraries\documents\visual studio 2013\Projects\Movie.Web\Movie.Web\obj\Release\Movie.Web.pdb

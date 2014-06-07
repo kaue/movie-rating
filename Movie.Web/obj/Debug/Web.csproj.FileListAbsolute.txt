@@ -1,0 +1,64 @@
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\obj\Debug\Movie.Web.dll
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\obj\Debug\Movie.Web.pdb
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll.config
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Movie.Web.pdb
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Comum.dll
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Entidade.dll
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.dll
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Comum.pdb
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Entidade.pdb
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.xml
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\NG.dll
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\DB.dll
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\NG.pdb
+D:\Libraries\Documents\Visual Studio 2013\Projects\Movie.Web\Movie.Web\bin\DB.pdb
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll.config
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Movie.Web.pdb
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Comum.dll
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Entidade.dll
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.dll
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\NG.dll
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\DB.dll
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Comum.pdb
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Entidade.pdb
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\NG.pdb
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.xml
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\bin\DB.pdb
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\obj\Debug\Movie.Web.dll
+C:\Users\g0\Dropbox\private\_Code\Visual Studio Projects\Movie.Web\Movie.Web\obj\Debug\Movie.Web.pdb
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll.config
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Movie.Web.dll
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Movie.Web.pdb
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Comum.dll
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Entidade.dll
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.dll
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\NG.dll
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\DB.dll
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Comum.pdb
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Entidade.pdb
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\NG.pdb
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\Newtonsoft.Json.xml
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\bin\DB.pdb
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\obj\Debug\Movie.Web.dll
+C:\Users\g0\Dropbox\private\codigo\Visual Studio Projects\Movie.Web\Movie.Web\obj\Debug\Movie.Web.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Movie.Web.dll.config
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Movie.Web.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Movie.Web.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Comum.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Entidade.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Newtonsoft.Json.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\NG.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\DB.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Comum.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Entidade.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\NG.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\Newtonsoft.Json.xml
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\bin\DB.pdb
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\obj\Debug\Movie.Web.dll
+C:\Users\g0\Documents\GitHub\movie-rating\Movie.Web\obj\Debug\Movie.Web.pdb
