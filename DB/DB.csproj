@@ -40,7 +40,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Base.cs" />
+    <Compile Include="Emocao.cs" />
+    <Compile Include="Filme.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Voto.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidade\Entidade.csproj">
+      <Project>{8d16bfce-f48c-42a9-a296-1e6516492893}</Project>
+      <Name>Entidade</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
