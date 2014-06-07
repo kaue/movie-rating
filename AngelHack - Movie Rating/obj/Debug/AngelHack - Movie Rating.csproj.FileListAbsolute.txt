@@ -1,0 +1,6 @@
+c:\users\g0\documents\visual studio 2013\Projects\AngelHack - Movie Rating\AngelHack - Movie Rating\bin\AngelHack - Movie Rating.dll.config
+c:\users\g0\documents\visual studio 2013\Projects\AngelHack - Movie Rating\AngelHack - Movie Rating\bin\AngelHack - Movie Rating.dll
+c:\users\g0\documents\visual studio 2013\Projects\AngelHack - Movie Rating\AngelHack - Movie Rating\bin\AngelHack - Movie Rating.pdb
+c:\users\g0\documents\visual studio 2013\Projects\AngelHack - Movie Rating\AngelHack - Movie Rating\obj\Debug\AngelHack - Movie Rating.csprojResolveAssemblyReference.cache
+c:\users\g0\documents\visual studio 2013\Projects\AngelHack - Movie Rating\AngelHack - Movie Rating\obj\Debug\AngelHack - Movie Rating.dll
+c:\users\g0\documents\visual studio 2013\Projects\AngelHack - Movie Rating\AngelHack - Movie Rating\obj\Debug\AngelHack - Movie Rating.pdb
