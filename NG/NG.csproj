@@ -40,7 +40,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Emocao.cs" />
+    <Compile Include="Filme.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Voto.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DB\DB.csproj">
