@@ -1,4 +1,4 @@
-movie-rating
+:movie_camera: movie-rating
 ============
 Movie Rating is a collaborative voting platform that uses a algorithm to group similar movies based on the emotion caused when watching it.
 
